@@ -1,5 +1,5 @@
 # Status plot
-Show vibration data and fft plot when the CT value over the threshold.
+Plot vibration data and fft plot when the CT value over the threshold.
 ## Devices
 ```
 * CT data publisher
